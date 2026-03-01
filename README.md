@@ -1,4 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=FFFFFF&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam)](https://git.io/typing-svg)
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=FFFFFF&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam" />
+
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=000000&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam" />
+
+  <!-- Fallback (Light mode) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=000000&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam" />
+</picture>
 
 I'm a **Backend Developer** who enjoys building efficient and maintainable systems.  
 I mainly work with **Node.js** and **Python**, and have basic experience with **Golang**.  
