@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=000000&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=FFFFFF&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam)](https://git.io/typing-svg)
 
 I'm a **Backend Developer** who enjoys building efficient and maintainable systems.  
 I mainly work with **Node.js** and **Python**, and have basic experience with **Golang**.  
