@@ -42,3 +42,4 @@ Currently, I'm learning more about **DevOps** and **Cloud Services** to improve 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Temporal](https://img.shields.io/badge/-Temporal-F6C915?style=flat&logo=temporal&logoColor=white)
