@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=1000&size=30&duration=2500&pause=1000&color=4DA3FF&width=600&lines=👋+Hi+there%2C+I'm+Lam+Thi+Hong+Cam)](https://git.io/typing-svg)
 
 I'm a **Backend Developer** who enjoys building efficient and maintainable systems.  
-I mainly work with **Node.js** and **Python**, and have basic experience with **Golang**.  
+I mainly work with **Node.js** and **Python**, and **Golang**.  
 Currently, I'm learning more about **DevOps** and **Cloud Services** to improve deployment and system reliability.
 
 🌱 Always eager to learn, share, and grow as a developer.  
